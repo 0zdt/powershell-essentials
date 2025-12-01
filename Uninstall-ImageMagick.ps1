@@ -1,0 +1,1 @@
+& "C:\Program Files\ImageMagick-7.1.2-Q16-HDRI\unins000.exe" /VERYSILENT /SUPPRESSMSGBOXES /NORESTART
